@@ -1,0 +1,4 @@
+BuildTools/**/
+BuildTools/**
+VirtuaServer/spigot.jar
+VirtuaServer/plugins/*.jar
